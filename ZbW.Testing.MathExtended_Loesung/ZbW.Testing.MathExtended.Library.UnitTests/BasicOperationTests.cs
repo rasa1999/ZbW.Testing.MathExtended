@@ -1,4 +1,4 @@
-﻿namespace ZbW.Math.TestFramework.Library.UnitTests
+﻿namespace ZbW.Testing.MathExtended.Library.UnitTests
 {
     using NUnit.Framework;
 

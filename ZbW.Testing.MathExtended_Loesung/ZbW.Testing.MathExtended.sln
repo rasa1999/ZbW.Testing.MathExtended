@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2010
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZbW.Math.TestFramework.Library", "ZbW.Math.TestFramework.Library\ZbW.Math.TestFramework.Library.csproj", "{EF57354B-E7C9-4EB1-94B7-6F47AF067CC9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZbW.Testing.MathExtended.Library", "ZbW.Testing.MathExtended.Library\ZbW.Testing.MathExtended.Library.csproj", "{EF57354B-E7C9-4EB1-94B7-6F47AF067CC9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZbW.Math.TestFramework.Library.UnitTests", "ZbW.Math.TestFramework.Library.UnitTests\ZbW.Math.TestFramework.Library.UnitTests.csproj", "{7A4E33B3-465A-4A6A-B825-E4DC8F1CE18C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZbW.Testing.MathExtended.Library.UnitTests", "ZbW.Testing.MathExtended.Library.UnitTests\ZbW.Testing.MathExtended.Library.UnitTests.csproj", "{7A4E33B3-465A-4A6A-B825-E4DC8F1CE18C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
