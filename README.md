@@ -1,1 +1,1 @@
-# ZbW.SoftwareTesting.MathLibraryExtended
+# ZbW.Testing.MathExtended
