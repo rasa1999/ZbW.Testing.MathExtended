@@ -1,7 +1,12 @@
-﻿namespace ZbW.Testing.MathExtended.Library.UnitTests
+﻿using NUnit.Framework;
+
+namespace ZbW.Testing.MathExtended.Library.UnitTests
 {
+    [TestFixture]
     public class ExtendedOperationTests
     {
-        // Write your tests here
+        [Test]
+        public void
+
     }
 }
